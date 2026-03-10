@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Lucifer",
+  "base_artist": "SHINee",
+  "createdAt": "2026-03-10T12:00:24.980980Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Miss Lucifer",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/01_Miss_Lucifer_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Miss Lucifer - Bone to Bone",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/02_Miss_Lucifer_-_Bone_to_Bone_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Miss Lucifer (Live At The Zepp)",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/03_Miss_Lucifer_(Live_At_The_Zepp)_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Miss Lucifer - Panther Girl",
+      "artist": "Primal Scream",
+      "has_synced": false,
+      "path": "select/04_Miss_Lucifer_-_Panther_Girl_Primal_Scream.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Miss Lucifer (Remastered)",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/05_Miss_Lucifer_(Remastered)_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lucifer in Starlight",
+      "artist": "Powerwolf",
+      "has_synced": false,
+      "path": "select/06_Lucifer_in_Starlight_Powerwolf.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "No Lucifer",
+      "artist": "British Sea Power",
+      "has_synced": true,
+      "path": "select/07_No_Lucifer_British_Sea_Power.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lucifer Airlines",
+      "artist": "Electric Six",
+      "has_synced": true,
+      "path": "select/08_Lucifer_Airlines_Electric_Six.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lucifer Rising (Remastered)",
+      "artist": "The Flaming Lips",
+      "has_synced": false,
+      "path": "select/09_Lucifer_Rising_(Remastered)_The_Flaming_Lips.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lucifer Rising",
+      "artist": "Venom",
+      "has_synced": true,
+      "path": "select/10_Lucifer_Rising_Venom.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lucifer",
+      "artist": "Deathless Legacy",
+      "has_synced": true,
+      "path": "select/11_Lucifer_Deathless_Legacy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dreamless (Lucifer and Lilith)",
+      "artist": "Moonspell",
+      "has_synced": true,
+      "path": "select/12_Dreamless_(Lucifer_and_Lilith)_Moonspell.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lucifer Rising",
+      "artist": "Candlemass",
+      "has_synced": true,
+      "path": "select/13_Lucifer_Rising_Candlemass.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dancing With Lucifer",
+      "artist": "Whyzdom",
+      "has_synced": true,
+      "path": "select/14_Dancing_With_Lucifer_Whyzdom.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lucifer",
+      "artist": "Nemesea",
+      "has_synced": true,
+      "path": "select/15_Lucifer_Nemesea.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Lucifer Sam",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/16_Lucifer_Sam_Pink_Floyd.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LUCIFER",
+      "artist": "SHINee",
+      "has_synced": false,
+      "path": "select/pl_01_LUCIFER_SHINee.txt"
+    }
+  ]
+}
